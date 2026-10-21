@@ -6,12 +6,14 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7296bb-c5ae-4426-80bf-d4f040503d8d" />
 <img width="1471" height="879" alt="image" src="https://github.com/user-attachments/assets/379ba0bc-8757-41b3-a415-5244e3c70b15" />
 ## BOM
+
 | Part | Cost (total) | Need |
-| --- | --- | --- |
-| ESP32 C3 Mini WiFi| $6.99 | the actual circuit |
+| :--- | :--- | :--- |
+| ESP32 C3 Mini WiFi | $6.99 | the actual circuit |
 | Mechanical Switches | $5.00 | button press input |
 | SSD1306 OLED Screen | $5.99 | display inputs and outputs |
 | DHT11 sensor | $4.75 | climate sensor |
 | 2N3904 transistors | $7.00 | transisting |
+
 **Since the funding only covers $30, I am going to be covering the tax and shipping myself. This is NOT an incomplete BOM, taxes will be entirely covered by me!**
 
